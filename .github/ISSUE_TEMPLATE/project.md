@@ -5,6 +5,7 @@ about: Propose and document a project, including its objectives, description, sc
 title: 'Project - '
 labels: ''
 assignees: ''
+type: Project
 
 ---
 
