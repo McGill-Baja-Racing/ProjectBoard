@@ -2,7 +2,7 @@
 name: Project
 about: Propose and document a project, including its objectives, description, scope,
   challenges, and considerations.
-title: 'Project - '
+title: ''
 labels: ''
 assignees: ''
 type: Project
